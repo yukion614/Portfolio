@@ -214,7 +214,7 @@ transition:transform 0.4s ease;
 position: absolute;
 top: 760px;
 left: 0px;
-background-image: url('/img/section_2.jpg');
+background-image: url('img/section_2.jpg');
 width: 100%;
 height: 1140px;
 }
@@ -251,7 +251,7 @@ color: white;
 color: white;
 }
 .mainbg{
-background-image: url('/img/Rectangle15.jpg');
+background-image: url('img/Rectangle15.jpg');
 height: 762px;
 position: absolute;
 width: 100%;
@@ -309,7 +309,7 @@ background-color: #4B86F8;
 filter: brightness(120%);
 }
 .section1{
-background-image: url('/img/Rectangle15.jpg');
+background-image: url('img/Rectangle15.jpg');
 background-size:cover; 
 /* background-position: center; */
 height: 760px;
@@ -319,7 +319,7 @@ right: 0px
 }
 .section2{
 background-image:linear-gradient(to bottom, rgba(0,0,0,0) 95%, rgba(0,0,0,0.9)),
-url('/img/section_2and3.jpg');
+url('img/section_2and3.jpg');
 background-size: cover;
 width: 100%;
 height: 1900px;
@@ -328,7 +328,7 @@ height: 1900px;
 
 .section3{
 background-image: linear-gradient(to bottom, rgba(0,0,0,0) 90%, rgba(0,0,0,0.9)),
-url('/img/Rectanglerock.png');
+url('img/Rectanglerock.png');
 background-size: cover;
 width: 100%;
 height: 1000px;
