@@ -251,7 +251,7 @@ color: white;
 color: white;
 }
 .mainbg{
-background-image: url('/img/Rectangle15.jpg');
+background-image: url('/img/rectangle15.jpg');
 height: 762px;
 position: absolute;
 width: 100%;
@@ -309,7 +309,7 @@ background-color: #4B86F8;
 filter: brightness(120%);
 }
 .section1{
-background-image: url('/img/Rectangle15.jpg');
+background-image: url('/img/rectangle15.jpg');
 background-size:cover; 
 /* background-position: center; */
 height: 760px;
@@ -328,7 +328,7 @@ height: 1900px;
 
 .section3{
 background-image: linear-gradient(to bottom, rgba(0,0,0,0) 90%, rgba(0,0,0,0.9)),
-url('img/Rectanglerock.png');
+url('img/rectanglerock.png');
 background-size: cover;
 width: 100%;
 height: 1000px;
