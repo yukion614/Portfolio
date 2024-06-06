@@ -251,7 +251,7 @@ color: white;
 color: white;
 }
 .mainbg{
-background-image: url('img/Rectangle15.jpg');
+background-image: url('/img/Rectangle15.jpg');
 height: 762px;
 position: absolute;
 width: 100%;
@@ -309,7 +309,7 @@ background-color: #4B86F8;
 filter: brightness(120%);
 }
 .section1{
-background-image: url('img/Rectangle15.jpg');
+background-image: url('/img/Rectangle15.jpg');
 background-size:cover; 
 /* background-position: center; */
 height: 760px;
